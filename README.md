@@ -5,14 +5,14 @@ Installasjon
 
 	1	Last ned eller klon prosjektfilene.
 	2	Åpne filen kinobilletter.html i en nettleser.
-Bruk
+Bruk:
 
 	•	Velg en film fra rullegardinmenyen.
 	•	Skriv inn antall billetter du ønsker å kjøpe.
 	•	Skriv inn fornavn, etternavn, e-postadresse og telefonnummer.
 	•	Klikk på "Kjøp billett"-knappen for å legge til billetten.
 	•	Klikk på "Slett alle billettene"-knappen for å fjerne alle billetter.
-Mapper
+Mapper;
 
 	•	kinobilletter.html: HTML-fil som inneholder skjemaet for å registrere kinobilletter.
 	•	README.md: Denne filen som inneholder prosjektinformasjonen.
