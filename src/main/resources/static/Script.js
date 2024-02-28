@@ -68,10 +68,8 @@ function validateInputs() {
     } else {
         document.getElementById('quantityError').innerText = "";
     }
-
     return isValid;
 }
-
 function clearTickets() {
     tickets = [];
     displayTickets();
